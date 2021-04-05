@@ -1,4 +1,4 @@
-package service;
+package com.nf.service;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
@@ -6,7 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 public class ServiceProperties {
 
     /**
-     * A message for the service.
+     * A message for the com.nf.service.
      */
     private String message;
 

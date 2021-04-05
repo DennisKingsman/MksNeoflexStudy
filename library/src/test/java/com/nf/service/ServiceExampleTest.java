@@ -1,4 +1,4 @@
-package service;
+package com.nf.service;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.jupiter.api.Test;
